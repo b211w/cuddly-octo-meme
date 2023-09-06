@@ -1,2 +1,2 @@
-# cuddly-octo-meme
+# cuddly-octo-meme.io
 my first repository
